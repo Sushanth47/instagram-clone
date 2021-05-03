@@ -1,6 +1,7 @@
 #For installing react files
 $ npm create-react-app
 
+
 #To Install firebase
 $ npm install -g firebase-tools
 
